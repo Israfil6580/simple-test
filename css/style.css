@@ -132,8 +132,8 @@ nav ul {
 }
 
 .col-md-4 {
-    padding: 20px;
-    border-radius: 15px;
+    padding: 15px;
+    border-radius: 20px;
 }
 
 .card-1 {
@@ -141,9 +141,6 @@ nav ul {
     width: 400px;
     margin: 20px auto;
     transition: .3s ease-in-out;
-}
-.card-1:hover {
-    transform: translateY(-5px);
 }
 .t-h1 {
     padding: 80px 0 40px 0;
